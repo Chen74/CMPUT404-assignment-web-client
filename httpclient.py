@@ -193,3 +193,6 @@ if __name__ == "__main__":
 # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
 # https://www.knowledgehut.com/blog/programming/sys-argv-python-examples
 # https://www.urlencoder.io/python/
+# https://github.com/Amos-lii/CMPUT404-assignment-web-client/blob/master/httpclient.py
+# https://github.com/Scott-Dupasquier/CMPUT404-assignment-web-client/blob/master/httpclient.py
+# https://github.com/ChrisChrisLoLo/CMPUT404-assignment-web-client/blob/master/httpclient.py
