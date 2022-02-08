@@ -43,6 +43,7 @@ class MyHTTPHandler(http.server.BaseHTTPRequestHandler):
             if (self.post == None):
                 return None
             else:
+
                 return self.post()
         except Exception as e:
             print("Exception %s\n" % e)
