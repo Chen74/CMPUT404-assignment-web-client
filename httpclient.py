@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # coding: utf-8
-# Copyright 2016 Abram Hindle, https://github.com/tywtyw2002, and https://github.com/treedust
+# Copyright 2016 Abram Hindle, https://github.com/tywtyw2002, and https://github.com/treedust, Chen Xu
 # 
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -189,10 +189,4 @@ if __name__ == "__main__":
     else:
         print(client.command(sys.argv[1]))
 
-# https://docs.python.org/3/library/urllib.parse.html
-# https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
-# https://www.knowledgehut.com/blog/programming/sys-argv-python-examples
-# https://www.urlencoder.io/python/
-# https://github.com/Amos-lii/CMPUT404-assignment-web-client/blob/master/httpclient.py
-# https://github.com/Scott-Dupasquier/CMPUT404-assignment-web-client/blob/master/httpclient.py
-# https://github.com/ChrisChrisLoLo/CMPUT404-assignment-web-client/blob/master/httpclient.py
+
