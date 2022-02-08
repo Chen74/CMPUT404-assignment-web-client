@@ -112,7 +112,6 @@ class HTTPClient(object):
         body = self.get_body(data)
 
         # print(data)
-
         self.close()
         return HTTPResponse(code, body)
 
@@ -143,7 +142,8 @@ class HTTPClient(object):
             self.PostRes_Noargs(path, host)
 
         data = self.recvall(self.socket)
-        print(data)
+
+        # print(data)
         headers = self.get_headers(data)
         code = self.get_code(data)
         body = self.get_body(data)
